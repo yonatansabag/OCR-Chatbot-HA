@@ -4,7 +4,7 @@ import re
 
 # Azure credentials
 endpoint = "https://eastus.api.cognitive.microsoft.com/"
-key = "YOUR API KEY"
+key = "<your-azure-openai-api-key>"
 
 client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
