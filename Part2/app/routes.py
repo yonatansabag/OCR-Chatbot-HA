@@ -16,8 +16,8 @@ logger = logging.getLogger("chatbot")
 # Get AzureOpenAi client
 client = AsyncAzureOpenAI(
     api_version="2023-07-01-preview",
-    azure_endpoint="https://oai-lab-test-eastus-001.openai.azure.com/",
-    api_key="47221f36001a4b94839e3cea4365197f"
+    azure_endpoint="https://<your-endpoint>.openai.azure.com/",
+    api_key="<your-azure-openai-api-key>"
 )
 
 # Load precomputed knowledge base embeddings
