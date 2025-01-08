@@ -109,5 +109,5 @@ Part 2 focuse on creating a microservice-based chatbot system.
    - ***Local Access***: http://127.0.0.1:7860
 
 
-   Tip: When talking with the chatbot, press Shift+Enter to enter your messages.
+   Tip: While talking with the chatbot, press Shift+Enter to enter your messages.
    
