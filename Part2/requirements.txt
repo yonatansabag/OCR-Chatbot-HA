@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-openai
-gradio
-numpy
-scipy
-beautifulsoup4
-requests
-langdetect
