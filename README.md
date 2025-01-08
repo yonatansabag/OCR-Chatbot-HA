@@ -49,16 +49,15 @@ Part 2 focuse on creating a microservice-based chatbot system.
    ```bash
    cd ../Part2 
    ```
-
-  If coming from Part1 directory.
+   If coming from Part1 directory.
   
-  or
-  
-   ```bash
-   cd Part2 
-   ```
-
-  If coming from main directory.
+     or
+     
+      ```bash
+      cd Part2 
+      ```
+   
+     If coming from main directory.
 
 2. **Generate Knowledge Base:**
 
