@@ -29,7 +29,7 @@ This repository contains two main parts:
 ## Running the Applications
 
 ### Part1
-    Part 1 focuses on OCR functionalities integrated with a LLM
+Part 1 focuses on OCR functionalities integrated with a LLM
 1. **Navigate to the Part1 Directory:**
    
    ```bash
