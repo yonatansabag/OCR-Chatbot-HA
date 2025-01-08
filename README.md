@@ -12,7 +12,22 @@ This repository contains two main parts:
 
 ## Configuration
 
+ **Locate the Configuration Files and Update it:**
 
+   - For **Part1**, update the API key and endpoint in the relevant Python scripts: azure_gpt.py and azure_ocr.py .
+   - For **Part2**, update the API key and endpoint in the routes.py and utils.py files under app/.
+
+   Open above files and replace the placeholders <api_key> and <azure_endpoint> with your own values.
+
+   Example :
+
+   ```bash
+   client = AsyncAzureOpenAI(
+       api_version="2023-07-01-preview",
+       azure_endpoint="https://<your-endpoint>.openai.azure.com/",
+       api_key="<your-azure-openai-api-key>"
+    )
+   ```
 
 ## Installation
 
