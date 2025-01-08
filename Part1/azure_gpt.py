@@ -4,8 +4,8 @@ from few_shot_examples import *
 
 client = AzureOpenAI(
     api_version="2023-07-01-preview",
-    azure_endpoint="https://oai-lab-test-eastus-001.openai.azure.com/",
-    api_key="YOUR API KEY"
+    azure_endpoint="https://<your-endpoint>.openai.azure.com/",
+    api_key="<your-azure-openai-api-key>"
 )
 
 def parse_fields_to_json(ocr_data):
