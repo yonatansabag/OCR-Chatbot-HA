@@ -35,8 +35,7 @@ Part 1 focuses on OCR functionalities integrated with a LLM
    ```bash
    cd Part1
    ```
-2. **Run the Desired Script:**
-   To run the OCR application:
+2. **To run the OCR application:**
    
    ```bash
    python main.py
