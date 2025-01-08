@@ -15,6 +15,7 @@ This repository contains two main parts:
  **Locate the Configuration Files and Update it:**
 
    - For **Part1**, update the API key and endpoint in the relevant Python scripts: **azure_gpt.py** and **azure_ocr.py**.
+     
      (***Pay attention***, there are different endpoints and different API keys for the DocumentReader API and for the AzureOpenAI API)
    - For **Part2**, update the API key and endpoint in the **routes.py** and **utils.py** files under app/.
 
