@@ -10,6 +10,10 @@ This repository contains two main parts:
 - Python 3.8 or higher
 - pip (Python package installer)
 
+## Configuration
+
+
+
 ## Installation
 
 1. **Clone the Repository**:
