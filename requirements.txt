@@ -9,3 +9,4 @@ requests
 langdetect
 streamlit
 azure-ai-formrecognizer
+lxml
