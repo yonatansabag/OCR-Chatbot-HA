@@ -38,7 +38,7 @@ Part 1 focuses on OCR functionalities integrated with a LLM
 2. **To run the OCR application:**
    
    ```bash
-   python main.py
+   streamlit run main.py
    ```
 
 ### Part2
