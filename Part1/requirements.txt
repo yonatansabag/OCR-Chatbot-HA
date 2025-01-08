@@ -1,3 +1,0 @@
-streamlit
-azure-ai-formrecognizer
-openai
